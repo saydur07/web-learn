@@ -1,0 +1,26 @@
+.blog {
+    background-color: aquamarine;
+    border: 5px solid tomato;
+    border-radius: 10px;
+    /* border-bottom: 10px double tomato;
+            border-left: 10px solid tomato; */
+    /* clock wise margin*/
+    /* margin: 20px 100px 50px 5px;  */
+    margin: 10px;
+    /* T LR css padding */
+    padding: 10px 80px;
+    text-align: justify;
+    box-shadow: 20px 20px 20px violet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+
+h3 {
+    text-decoration: overline;
+    font-size: large;
+}
+
+* {
+    margin: 0;
+}
